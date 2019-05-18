@@ -11,6 +11,9 @@ public class MainTest {
     public void importStringUtilsCorrectly() {
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
         System.setOut(new PrintStream(baos, true));
+
+        Main.main();
+
         assertTrue(new String(baos.toByteArray()).contains("Empty string is empty: true"));
     }
 }
