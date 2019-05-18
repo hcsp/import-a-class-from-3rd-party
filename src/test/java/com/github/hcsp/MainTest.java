@@ -12,7 +12,7 @@ public class MainTest {
         ByteArrayOutputStream baos = new ByteArrayOutputStream();
         System.setOut(new PrintStream(baos, true));
 
-        Main.main();
+        Main.main(null);
 
         assertTrue(new String(baos.toByteArray()).contains("Empty string is empty: true"));
     }
