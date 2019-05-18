@@ -1,6 +1,6 @@
 package com.github.hcsp;
 
-import static org.junit.api.Assertions.assertTrue;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
