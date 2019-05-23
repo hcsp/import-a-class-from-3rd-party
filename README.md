@@ -5,10 +5,12 @@
 
 现在我们在`com.github.hcsp/pet1`包中和``com.github.hcsp/pet2`包中都存在一个名为`Cat`的类。请在[`Home`这个类](https://github.com/hcsp/import-a-class-from-3rd-party/blob/master/pom.xml)中同时引用这两个`Cat`类。在提交Pull Request之前，你应当在本地确保所有代码已经编译通过，并且通过了测试(`mvn test`)
 
-我们只允许你修改以下文件，对其他文件的修改会被拒绝：
+-----
+注意！我们只允许你修改以下文件，对其他文件的修改会被拒绝：
 - [pom.xml](https://github.com/hcsp/import-a-class-from-3rd-party/blob/master/pom.xml)
+-----
 
 
 敬请期待写代码啦的课程
 
-敬请期待
+回到[写代码啦的题目](https://xiedaimala.com/tasks/316bb6cc-6aa6-4dac-85e4-ce1c01b72c83/quizzes/6deff641-d53b-485b-9253-614655e16f3b)，继续挑战！
