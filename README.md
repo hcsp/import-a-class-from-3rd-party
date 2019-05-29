@@ -11,6 +11,6 @@
 -----
 
 
-敬请期待写代码啦的课程
+完成题目有困难？不妨来看看[写代码啦的相应课程](https://xiedaimala.com/tasks/316bb6cc-6aa6-4dac-85e4-ce1c01b72c83/video_tutorials/a1f29194-f920-4945-951c-1de88d83a320)吧！
 
 回到[写代码啦的题目](https://xiedaimala.com/tasks/316bb6cc-6aa6-4dac-85e4-ce1c01b72c83/quizzes/6deff641-d53b-485b-9253-614655e16f3b)，继续挑战！
