@@ -1,5 +1,4 @@
 package com.github.hcsp;
-
 import org.apache.commons.lang3.StringUtils;
 
 public class Main {
