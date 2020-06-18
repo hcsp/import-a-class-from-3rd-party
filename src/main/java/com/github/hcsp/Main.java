@@ -7,4 +7,3 @@ public class Main {
         System.out.println("Empty string is empty: " + StringUtils.isEmpty(""));
     }
 }
-
