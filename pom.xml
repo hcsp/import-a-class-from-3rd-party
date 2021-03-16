@@ -53,6 +53,11 @@
     </profiles>
     <dependencies>
         <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.12.0</version>
+        </dependency>
+        <dependency>
             <groupId>com.github.blindpirate</groupId>
             <artifactId>junit5-capture-system-output-extension</artifactId>
             <version>0.1.1</version>
