@@ -22,14 +22,14 @@
                 <pluginRepository>
                     <id>alimaven</id>
                     <name>aliyun maven</name>
-                    <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+                    <url>https://maven.aliyun.com/nexus/content/groups/public/</url>
                 </pluginRepository>
             </pluginRepositories>
             <repositories>
                 <repository>
                     <id>alimaven</id>
                     <name>aliyun maven</name>
-                    <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
+                    <url>https://maven.aliyun.com/nexus/content/groups/public/</url>
                 </repository>
             </repositories>
         </profile>
@@ -69,6 +69,11 @@
             <artifactId>junit-jupiter-engine</artifactId>
             <version>5.6.0</version>
             <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.12.0</version>
         </dependency>
     </dependencies>
 
