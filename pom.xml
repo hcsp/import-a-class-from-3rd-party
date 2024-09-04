@@ -47,6 +47,7 @@
                     <id>mavenCentral</id>
                     <name>mavenCentral</name>
                     <url>https://repo.maven.apache.org/maven2</url>
+
                 </repository>
             </repositories>
         </profile>
